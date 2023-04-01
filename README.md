@@ -16,6 +16,8 @@
 - Desenvolvimento back-end usando Typescript, GraphQL, PostgreSQL, Node, PHP & Java
 - Implantação usando Docker
 
+![snake gif](https://github.com/ramonor/Ramonor/blob/output/github-contribution-grid-snake.svg)
+
 Linguagens que eu uso: <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-141414?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
