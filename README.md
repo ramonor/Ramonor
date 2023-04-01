@@ -12,8 +12,8 @@
 ### 👩‍💻 CTO of <a href = "https://closem.ai/">closem</a>!
 
 ### ⚡ Tecnologias
-- Desenvolvimento front-end usando Typescript, C#, CSS, SASS, Tailwind, Bulma
-- Desenvolvimento back-end usando Typescript, GraphQL, PostgreSQL, PHP/Laravel & Go
+- Desenvolvimento front-end usando Typescript, CSS, html
+- Desenvolvimento back-end usando Typescript, GraphQL, PostgreSQL, Node, PHP & Java
 - Implantação usando Docker
 
 Linguagens que eu uso: <br>
