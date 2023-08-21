@@ -2,8 +2,8 @@
 <p align="center">
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ramonor&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p align="center">
-    <a href="https://github.com/ramonor/"><img src="https://img.shields.io/github/followers/nurdism?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <a href="https://twitch.tv/ramonor"><img src="https://img.shields.io/twitch/status/nurdism?label=Status%20Twitch%20%3A"/></a>
+    <a href="https://github.com/ramonor/"><img src="https://img.shields.io/github/followers/ramonor?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://twitch.tv/ramonor"><img src="https://img.shields.io/twitch/status/ramonor?label=Status%20Twitch%20%3A"/></a>
   </p>
 </p>
 
