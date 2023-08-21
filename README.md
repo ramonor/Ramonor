@@ -70,4 +70,4 @@ Alguns dos meus projetos de código aberto favoritos: <br>
 
 ### ☕ Entrar em contato
 - Email: <a href="ramonpereira176@gmail.com">ramonpereira176@gmail.com</a>
-- Discord: <a href="https://discord.gg/j4Fk7cXkqj">R.Silva#0001</a>
+- Discord: <a href="https://discord.gg/j4Fk7cXkqj">.ramonsilva</a>
