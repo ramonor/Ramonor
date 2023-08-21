@@ -34,22 +34,22 @@ Ferramentas e tecnologias com as quais já trabalhei: <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)
 ![Node](https://img.shields.io/badge/-Node-141414?style=flat&logo=node.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-141414?style=flat&logo=jquery)
-![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
-![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
+<!-- ![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux) -->
+<!-- ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows) -->
+<!-- ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker) -->
 ![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
 ![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
 ![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-141414?style=flat&logo=gitlab)
-![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)
+<!-- ![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github) -->
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141414?style=flat&logo=adobe-photoshop)
 
-Alguns dos meus projetos de código aberto favoritos: <br>
+<!-- Alguns dos meus projetos de código aberto favoritos: <br>
 [![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-141414?style=flat&logo=dark-reader)](https://github.com/darkreader/darkreader)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-141414?style=flat&logo=insomnia)](https://github.com/Kong/insomnia)
 [![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-141414?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
 [![MEGA](https://img.shields.io/badge/-MEGA-141414?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode) -->
 
 ### ✔️ No momento estou aprendendo:
 - Emulação de hardware
@@ -62,12 +62,11 @@ Alguns dos meus projetos de código aberto favoritos: <br>
 
 ### 💡 Metas para 2023
 - Aprimorar meu Conhecimento em C e C++ 
-- Explorar linguagens de nível inferior
+<!-- - Explorar linguagens de nível inferior -->
 
 ### 🌴 curiosidades
 - Gosto de Crir projetos quando estou entediado
 - E jogar nas horas vagas
 
 ### ☕ Entrar em contato
-- Email: <a href="ramonpereira176@gmail.com">ramonpereira176@gmail.com</a>
 - Discord: <a href="https://discord.gg/j4Fk7cXkqj">.ramonsilva</a>
